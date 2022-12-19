@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Francisco Munguia Wulftange and I am a physics student at the University of San Diego.
+- 👋 Hi, I’m Francisco and I am a physics student at the University of San Diego.
 - I am learning python and would love to learn more coding languages in the future. 
 - 
 - 👀 I’m interested in particle physics, quantum mechanics and nuclear fusion. I would love to work at a nuclear fusion reactor or in the particle astrophysics field.
